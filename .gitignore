@@ -1,4 +1,6 @@
-**/__pycache__
-runs/
-wandb/
-models/
+**/__pycache__/
+.venv/
+runs/*
+wandb/*
+models/*
+media/*
